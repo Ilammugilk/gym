@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "10619000000025026",
+      "name": "Gym",
+      "domain": {
+        "id": "50023662672",
+        "name": "gym-60034034990.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60034034990",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
